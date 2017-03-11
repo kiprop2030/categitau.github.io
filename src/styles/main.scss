@@ -4,6 +4,7 @@ $purple: #54516A;
 $cut: 768px;
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
 
 body {
   margin: 0;
@@ -67,6 +68,10 @@ body {
     width:100vw !important;
     height:100vh !important;
   }
+}
+
+.username{
+	font-family:'Dancing+Script';
 }
 
 .content {
